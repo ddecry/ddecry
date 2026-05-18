@@ -66,12 +66,7 @@ Repository: [RainMapViewer](https://github.com/ddecry/RainMapViewer)
 - Python
 - SQL
 - Pandas
-- NumPy
-- Scikit-learn
 - Power BI
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
 - Git
 
 ---
