@@ -1,78 +1,35 @@
-# Hi, I'm Arthur Holanda
+# Arthur Holanda
 
-Software Engineering student from Teresina, Piauí, Brazil.
+Software Engineering student from Teresina, Brazil, with a growing interest in Machine Learning, Data Science and Data Analysis.
 
-I'm focused on **Data Science** and **Data Analysis**, using Python, SQL, statistics, and visualization to transform data into insights and practical decisions.
+I enjoy exploring how data can be collected, organized and analyzed to identify patterns and answer real questions. I'm also interested in statistics, data visualization, predictive models and the technologies behind data-driven applications.
 
----
+## Projects
 
-## About Me
+- [**UNCHARTABLE**](https://github.com/ddecry/UNCHARTABLE_App) — Desktop chart manager for UNBEATABLE, built with React, TypeScript, Rust and Tauri.
+- [**Sales Dashboard**](https://github.com/ddecry/sales-dashboard) — E-commerce sales analysis with business indicators, SQL queries and revenue forecasting.
+- [**Customer Churn Analysis**](https://github.com/ddecry/customer-churn-analysis) — Customer retention analysis using Python and classification metrics.
+- [**Public Services ETL**](https://github.com/ddecry/public-services-etl) — ETL pipeline that transforms JSON records and loads them into SQLite.
 
-I’m currently building projects focused on data cleaning, exploratory analysis, machine learning, SQL workflows, dashboards, and business-oriented insights.
+## Tools and technologies
 
-Main interests:
-
-- Data Science
-- Data Analysis
-- Machine Learning
-- Exploratory Data Analysis
-- Data visualization
-- SQL
-
----
-
-## Featured Projects
-
-### Sales Dashboard
-
-A data analysis project focused on e-commerce sales performance, revenue tracking, average ticket, acquisition channels, product categories, and monthly revenue forecasting.
-
-Repository: [sales-dashboard](https://github.com/ddecry/sales-dashboard)
-
----
-
-### Customer Churn Analysis
-
-A data science project focused on identifying customers with higher cancellation risk in a SaaS business using behavior, support, payment, engagement, and satisfaction data.
-
-Repository: [customer-churn-analysis](https://github.com/ddecry/customer-churn-analysis)
-
----
-
-### Public Services ETL
-
-A data pipeline project focused on processing public service request data from JSON files, transforming it into a structured dataset, and loading it into SQLite for analytical queries.
-
-Repository: [public-services-etl](https://github.com/ddecry/public-services-etl)
-
----
-
-### Geo Alerta - RainMapViewer
-
-A Java desktop application focused on urban mobility and real-time incident awareness, allowing users to report and visualize flooded areas, heavy rainfall, traffic incidents, roadworks, and disruptions.
-
-Repository: [RainMapViewer](https://github.com/ddecry/RainMapViewer)
-
----
-
-## GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddecry&theme=tokyonight)
-
----
-
-## Skills
-
-- Python
-- SQL
-- Pandas
-- Power BI
-- Git
-
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" alt="SQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="38" alt="Rust" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" alt="TypeScript" />
+</p>
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthuroliv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuroliv/)
-[![Email](https://img.shields.io/badge/Email-arthurholanda.virtual@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurholanda.virtual@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ddecry-181717?style=for-the-badge&logo=github)](https://github.com/ddecry)
+<a href="https://www.linkedin.com/in/arthuroliv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:arthurholanda.virtual@gmail.com"><img src="https://img.shields.io/badge/Email-6E7781?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
